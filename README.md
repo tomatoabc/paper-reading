@@ -7,7 +7,6 @@
 | FreDif | [Frequency-conditional diffusion model for low-light image enhancement](https://www.sciencedirect.com/science/article/pii/S0925231225020557) | Neurocomputing | 2025 | [Code](https://github.com/JunhaoWang17/Frediff) | 2025-4-26 |
 | (DLFN) | [Diffusion-based Laplacian frequency-aware network for low-light image enhancement](https://www.sciencedirect.com/science/article/pii/S0031320326000233) | Pattern Recognition | 2026 | - | 2025-5-15 |
 | (SCEM) | [Diffusion-Based Low-Light Image Enhancement with Color and Luminance Priors](https://arxiv.org/abs/2603.00337) | ICRA | 2026 | [Code](https://github.com/casted/SCEM_code/tree/main) | 2025-5-16 |
-Frequency-aware network for low-light image enhancement
 | ((FaNet) | [Frequency-aware network for low-light image enhancement](https://www.sciencedirect.com/science/article/pii/S0097849323003084) | Computers & Graphics | 2025 | - | 2025-5-23 |
 
 # review
