@@ -9,7 +9,7 @@
 | SCEM | [Diffusion-Based Low-Light Image Enhancement with Color and Luminance Priors](https://arxiv.org/abs/2603.00337) | ICRA | 2026 | [Code](https://github.com/casted/SCEM_code/tree/main) | 2025-5-16 |
 | FaNet | [Frequency-aware network for low-light image enhancement](https://www.sciencedirect.com/science/article/pii/S0097849323003084) | Computers & Graphics | 2025 | - | 2025-5-23 |
 | LASGformer | [Illumination-aware and structure-guided transformer for low-light image enhancement](https://www.sciencedirect.com/science/article/pii/S1077314224003576) | CVIU | 2025 | - | 2025-5-23 |
-| LASGformer | [Frequency-guided dual-collapse Transformer for low-light image enhancement](https://www.sciencedirect.com/science/article/pii/S0952197624020657) | EAAI | 2025 | [Code](https://github.com/Fly175/FDCFormer) | 2025-5-25 |
+| FDCFormer | [Frequency-guided dual-collapse Transformer for low-light image enhancement](https://www.sciencedirect.com/science/article/pii/S0952197624020657) | EAAI | 2025 | [Code](https://github.com/Fly175/FDCFormer) | 2025-5-25 |
 # review
 | Model | Paper | journal | year | Code | Time |
 | :-----: | :-----: | :------: | :------: | :------: | :-----: |
