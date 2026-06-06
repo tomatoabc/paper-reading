@@ -12,6 +12,7 @@
 | FDCFormer | [Frequency-guided dual-collapse Transformer for low-light image enhancement](https://www.sciencedirect.com/science/article/pii/S0952197624020657) | EAAI | 2025 | [Code](https://github.com/Fly175/FDCFormer) | 2025-5-25 |
 | MWFFnet | [Multi-scale wavelet feature fusion network for low-light image enhancement](https://www.sciencedirect.com/science/article/pii/S0097849325000214) | Computers & Graphics | 2025 | [Code](https://github.com/ShuchengXia/MWFFnet) | 2025-5-26 |
 | Diff-Retinex++ | [Retinex-Driven Reinforced Diffusion Model for Low-Light Image Enhancement](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10974676) | TPAMI | 2025 | [Code](https://github.com/XunpengYi/Diff-Retinex-Plus) | 2025-5-28 |
+| MFGDAFormer | 2025 | [MFGDAFormer: Multi-scale frequency-guided dual-branch attention transformer for low-light image enhancement](https://www.sciencedirect.com/science/article/pii/S0925231225016091) | Neurocomputing | 2025 | - | 2025-5-29 |
 # review
 | Model | Paper | journal | year | Code | Time |
 | :-----: | :-----: | :------: | :------: | :------: | :-----: |
