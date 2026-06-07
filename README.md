@@ -1,4 +1,4 @@
-# paper-reading
+# papers-reading
 
 | Model | Paper | Journal/Conference | year | Code Link | Time |
 | :-----: | :-----: | :------: | :------: | :------: | :-----: |
